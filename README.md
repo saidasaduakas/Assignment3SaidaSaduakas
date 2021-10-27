@@ -1,9 +1,9 @@
 # Assignment3SaidaSaduakas
-
-Installation
- pip install pyjwt
- pip install Flask
- pip install -U Flask-SQLAlchemy
+  Installation
+   
+        pip install pyjwt
+	pip install Flask
+	pip install -U Flask-SQLAlchemy
  
 Usage
  creating a databases
